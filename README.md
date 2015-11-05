@@ -1,0 +1,2 @@
+# CommonAdapter
+用java和kotlin分别实现的CommonAdapter
